@@ -1,3 +1,9 @@
 # .vscode 폴더 내 전부 git 업로드 무시
 .vscode/*
 
+# C/C++ 실행 파일 git 업로드 무시
+*.exe
+*.out
+
+# C/C++ 컴파일 object 파일 업로드 무시
+*.o

@@ -12,4 +12,5 @@
 * https://physics.weber.edu/schroeder/software/demos/IsingModel.html
 * https://mattbierbaum.github.io/ising.js/
 * https://blog.naver.com/chunjein/222085716127
+* https://rajeshrinet.github.io/blog/2014/ising-model/
 
