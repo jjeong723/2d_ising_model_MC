@@ -1,0 +1,3 @@
+# .vscode 폴더 내 전부 git 업로드 무시
+.vscode/*
+
